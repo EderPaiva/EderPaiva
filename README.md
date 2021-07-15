@@ -7,12 +7,11 @@
 Adoro tecnologia, em sentido mais amplo tudo, que facilita, diverte e ajuda o mundo.
 
 :black_circle:Tenho proeficiência em nivel profissional nas ferramenta abaixo:
+![image](https://user-images.githubusercontent.com/57035941/125870274-5e00d978-4d4e-48b7-a4eb-2a7cd59a9f73.png)
+![image](https://user-images.githubusercontent.com/57035941/125870315-556c5d44-a80b-48d6-b7b5-569a4c137b0b.png)
 
-![image](https://user-images.githubusercontent.com/57035941/125869961-c02cbeed-a7cb-4602-a977-5df271b83d2f.png)
-![image](https://user-images.githubusercontent.com/57035941/125869979-3e0188d9-85db-4256-9a11-0649667e5bcf.png)
-![image](https://user-images.githubusercontent.com/57035941/125869997-6f5e1ac1-5972-4aa2-a5ad-a3eee96cf7de.png)
-![image](https://user-images.githubusercontent.com/57035941/125870140-b56e5cf5-ad19-4cd7-9947-b41a4e3d5d71.png)
-![image](https://user-images.githubusercontent.com/57035941/125870159-931cb73a-8d82-42e2-9b4a-28ac8e9b3608.png)
+
+
 
 
 
