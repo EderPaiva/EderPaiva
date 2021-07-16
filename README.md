@@ -1,20 +1,21 @@
-### Hi there 👋
+<h1>Em construção</h1>
 
-
-**EderPaiva/EderPaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-:black_circle: Nascido em juiz de fora, adoro jogos eletrônicos principalmente os competitivos online.
-Adoro tecnologia, em sentido mais amplo tudo, que facilita, diverte e ajuda o mundo.
-
-:black_circle:Tenho proeficiência em nivel profissional nas ferramenta abaixo:
-
-     
-     <img 
-     src="https://cdn.icon-icons.com/icons2/1558/PNG/512/353425-linkedin-logo_107480.png"
-     width="24px"
-     />
-
-
+<!-- <p align="center">
+     <br>
+ • <a href="#objetivo">Objetivo</a> 
+     <br>
+•  <a href="#roadmap">Roadmap</a> 
+     <br>
+ •  <a href="#tecnologias">Tecnologias</a>
+     <br>
+  • <a href="#contribuicao">Contribuição</a>
+     <br>
+ •  <a href="#licenc-a">Licença</a>
+     <br>
+ <a href="#autor">Autor:</a>
+     Eder Paiva
+</p>
+ -->
 
 
 
