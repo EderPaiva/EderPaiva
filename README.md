@@ -13,9 +13,9 @@ FrameWorks React
 - [x] <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" width="32px"/> Redux
 
 Tecnologias que estou estudando:
-- <img src="https://image.flaticon.com/icons/png/128/919/919825.png" width="32px"/> Nodejs
-- <img src="https://e7.pngegg.com/pngimages/480/899/png-clipart-mongodb-inc-computer-icons-mongodb-icons-cdr-angle.png" width="32px"/> MongoDB
-- <img src="https://image.flaticon.com/icons/png/512/2772/2772165.png" width="32px"/> SQL
+- [ ] <img src="https://image.flaticon.com/icons/png/128/919/919825.png" width="32px"/> Nodejs
+- [ ] <img src="https://e7.pngegg.com/pngimages/480/899/png-clipart-mongodb-inc-computer-icons-mongodb-icons-cdr-angle.png" width="32px"/> MongoDB
+- [ ] <img src="https://image.flaticon.com/icons/png/512/2772/2772165.png" width="32px"/> SQL
 
 
 
