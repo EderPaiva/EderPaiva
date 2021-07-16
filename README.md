@@ -1,6 +1,6 @@
 
 
-Tecnologias que conheço no front-end e tenho projetos rodando:
+Tecnologias que domino :
 
 - [x]  <img src="https://img.icons8.com/ios-glyphs/2x/react.png" width="32px"/> React
 - [x]  <img src="https://img.icons8.com/windows/2x/bootstrap.png" width="32px"/> bootstrap
