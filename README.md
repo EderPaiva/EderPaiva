@@ -20,6 +20,8 @@
 
 ## Contato
 
+Email: edergomesdepaiva12@gmail.com
+
 <p><a href="https://www.linkedin.com/in/eder-paiva-68394584/"><img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" width="124px"/></a><a href="https://www.facebook.com/edergomesdepaiva/"><img src="https://image.flaticon.com/icons/png/512/20/20673.png" width="124px"/></a><p>
 
 
