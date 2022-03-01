@@ -15,7 +15,7 @@
 ## FrameWorks React
 - [x] <img src="https://static-00.iconduck.com/assets.00/react-router-icon-512x279-zswz065s.png" width="32px"/> React Router
 - [x] <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" width="32px"/> Redux
-- [x] Socket
+- [x] <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="32px"/> Socket.io
 
 ## Outros Conhecimentos
  - [x] Python/Programação orientada a objetos
