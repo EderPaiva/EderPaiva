@@ -8,7 +8,7 @@
 - [x]  <img src="https://img.icons8.com/ios-filled/2x/javascript-logo.png" width="32px"/> javascriptES6
 - [x]  <img src="https://img.icons8.com/ios-filled/344/css3.png" width="32px"/> CSS3
 - [x]  <img src="https://img.icons8.com/ios-filled/344/html-5--v2.png 2x" width="32px"/> HTML
-- [x]  <img src="https://image.flaticon.com/icons/png/128/919/919825.png" width="32px"/> Nodejs
+- [x]  <img src="https://img.icons8.com/small/344/nodejs.png" width="32px"/> Nodejs
 - [x] <img src="https://e7.pngegg.com/pngimages/480/899/png-clipart-mongodb-inc-computer-icons-mongodb-icons-cdr-angle.png" width="32px"/> MongoDB
 - [x] <img src="https://image.flaticon.com/icons/png/512/2772/2772165.png" width="32px"/> SQL
 
