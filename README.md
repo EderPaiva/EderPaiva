@@ -29,6 +29,8 @@ https://github.com/EderPaiva/app-delivery
 https://github.com/EderPaiva/MobileApp-Recipe
 - Pokedex + RTL:
 https://github.com/EderPaiva/Pokedex-RTL
+- Raspagem de dados HTML do site tecmundo:
+https://github.com/EderPaiva/Raspagem-de-Dados
 
 ## Contato
 
