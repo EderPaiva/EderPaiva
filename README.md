@@ -21,7 +21,7 @@
 
  - [x] <img src="https://cdn-icons-png.flaticon.com/512/28/28884.png" width="32px"/> Python/POO
  - [x] Estrutura de dados
- - [x] Mineração de dados
+ - [x] <img src="https://static.thenounproject.com/png/3929129-200.png" width="32px"/> Mineração de dados
 
 ## Contato
 
