@@ -27,6 +27,8 @@
 https://github.com/EderPaiva/app-delivery
 - Projeto apenas com Front-End:
 https://github.com/EderPaiva/MobileApp-Recipe
+- Pokedex + RTL:
+https://github.com/EderPaiva/Pokedex-RTL
 
 ## Contato
 
