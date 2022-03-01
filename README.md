@@ -6,8 +6,8 @@
 - [x]  <img src="https://img.icons8.com/ios-glyphs/2x/react.png" width="32px"/> React
 - [x]  <img src="https://img.icons8.com/windows/2x/bootstrap.png" width="32px"/> bootstrap
 - [x]  <img src="https://img.icons8.com/ios-filled/2x/javascript-logo.png" width="32px"/> javascriptES6
-- [x]  <img src="https://image.flaticon.com/icons/png/512/732/732007.png" width="32px"/> CSS3
-- [x]  <img src="https://image.flaticon.com/icons/png/512/152/152843.png" width="32px"/> HTML
+- [x]  <img src="https://img.icons8.com/metro/344/css.png 2x" width="32px"/> CSS3
+- [x]  <img src="https://img.icons8.com/ios-filled/344/html-5--v2.png 2x" width="32px"/> HTML
 - [x]  <img src="https://image.flaticon.com/icons/png/128/919/919825.png" width="32px"/> Nodejs
 - [x] <img src="https://e7.pngegg.com/pngimages/480/899/png-clipart-mongodb-inc-computer-icons-mongodb-icons-cdr-angle.png" width="32px"/> MongoDB
 - [x] <img src="https://image.flaticon.com/icons/png/512/2772/2772165.png" width="32px"/> SQL
