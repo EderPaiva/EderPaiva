@@ -18,7 +18,8 @@
 - [x] <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="32px"/> Socket.io
 
 ## Outros Conhecimentos
- - [x] Python/Programação orientada a objetos
+
+ - [x] <img src="https://cdn-icons-png.flaticon.com/512/28/28884.png" width="32px"/> Python/POO
  - [x] Estrutura de dados
  - [x] Mineração de dados
 
