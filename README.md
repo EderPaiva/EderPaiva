@@ -21,6 +21,13 @@
  - [x] <img src="https://cdn-icons-png.flaticon.com/512/28/28884.png" width="32px"/> Python/POO
  - [x] <img src="https://static.thenounproject.com/png/3929129-200.png" width="32px"/> Mineração de dados
 
+## Repositórios Pinados:
+
+- Projeto com Front-End e Back-End Integrados:
+https://github.com/EderPaiva/app-delivery
+- Projeto apenas com Front-End:
+https://github.com/EderPaiva/MobileApp-Recipe
+
 ## Contato
 
 Email: edergomesdepaiva12@gmail.com
