@@ -13,7 +13,6 @@
 - [x] <img src="https://img.icons8.com/windows/344/sql.png" width="32px"/> SQL
 
 ## Bibliotecas React
-- [x] <img src="https://static-00.iconduck.com/assets.00/react-router-icon-512x279-zswz065s.png" width="32px"/> React Router
 - [x] <img src="https://w7.pngwing.com/pngs/544/164/png-transparent-chain-react-computer-icons-angular-redux-science-miscellaneous-web-application-monochrome-photography-thumbnail.png" width="32px"/> Redux
 - [x] <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="32px"/> Socket.io
 
